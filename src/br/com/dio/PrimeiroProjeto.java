@@ -7,8 +7,9 @@ public class PrimeiroProjeto {
         Gato gato = new Gato();
 
 
-       /* int  a = 5;
-             int b = 3;
+
+        /* int  a = 5;
+        int b = 3;
         System.out.println("Hello World " + (a+b))
 */
     }
